@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-RAG-DocuChat - VS Code Version
-
-Install dependencies:
-    pip install langchain langchain-community langchain-text-splitters \
-                langchain-huggingface langchain-chroma langchain-google-genai \
-                sentence-transformers pypdf chromadb python-dotenv
-"""
 
 import os
 from dotenv import load_dotenv
