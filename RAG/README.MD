@@ -87,7 +87,7 @@ Answer + Sources shown to user
 ### 1. Clone or download the project
 
 ```bash
-git clone <your-repo-url>
+git clone repo url
 cd RAG
 ```
 
